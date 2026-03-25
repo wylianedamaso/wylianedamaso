@@ -39,8 +39,21 @@ I am currently learning programming logic and Java, aiming to grow my skills and
 
 ##
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/wylianedamaso/
+## 🌐 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wylianedamaso/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:wylianedamaso@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/wylianedamaso" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ##
 
