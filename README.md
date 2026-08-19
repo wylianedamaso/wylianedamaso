@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Wyliane
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;Building+projects+with+Java+%26+Spring+Boot;Learning+Backend%2C+APIs+and+Databases." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+Training;Building+APIs+with+Java+%26+Spring+Boot;Backend+Development+%7C+APIs+%7C+Databases" />
 
 <br>
 
-🎓 Systems Analysis and Development Student  
-💻 Focused on Backend Development with Java  
-📚 Learning Spring Boot, APIs and Databases  
+🎓 Systems Analysis and Development Student
+💻 Focused on Java Backend Development
+🚀 Building practical projects with Java, Spring Boot and REST APIs
 
 </div>
 
@@ -16,12 +16,18 @@
 
 ## 💫 About Me
 
-- ☕ Learning Java and Object-Oriented Programming
-- 🌱 Studying Spring Boot, REST APIs and Databases
-- 🗄️ Exploring MySQL, PostgreSQL and MongoDB
-- 🔧 Using Git and GitHub for version control
-- 🎯 Focused on becoming a Java Backend Developer
-- 📚 Constantly improving through courses and practical projects
+I'm a Systems Analysis and Development student focused on **Backend Development with Java**.
+
+I enjoy building practical projects to strengthen my knowledge of software development, APIs, databases and backend architecture.
+
+Currently, I'm developing my skills with **Java, Spring Boot, REST APIs, SQL and Git**, while applying these technologies in academic, personal and practical projects.
+
+* ☕ Java & Object-Oriented Programming
+* 🚀 Spring Boot & REST APIs
+* 🗄️ SQL & Relational Databases
+* 🔧 Git & GitHub
+* 🧩 Backend architecture and application development
+* 📚 Continuous learning through courses and hands-on projects
 
 ---
 
@@ -58,25 +64,17 @@
 
 ## 📚 Currently Learning
 
-- Backend Development with Java
-- Spring Boot
-- REST APIs
-- SQL and Databases
-- Object-Oriented Programming (OOP)
-- Git & GitHub
-- Programming Logic
-
----
-
-## 📈 GitHub Stats
-
-<br/>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wylianedamaso&theme=midnight-purple&hide_border=true" />
-</p>
-
-<br/>
+* Java 21
+* Spring Boot
+* REST API Development
+* Spring Data JPA
+* SQL and Relational Databases
+* PostgreSQL
+* Object-Oriented Programming
+* Backend Architecture
+* Git & GitHub
+* Cloud Computing & AWS
+* Artificial Intelligence
 
 ---
 
@@ -114,6 +112,7 @@
 
 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=750&lines=Building+consistent+projects+while+growing+as+a+developer." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Building+projects+and+growing+as+a+Backend+Developer." />
 
 </div>
+
